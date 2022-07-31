@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQK1VFI1xCobbxY9OEStm/KY6P5svbX9KHMmQCGqckjvTisOHYi5oyiskHgoI8AB3nkMoZbedCMGEsnfcFcnfg==",
+  "dgSpecHash": "Wj0gheCopBhMyqCF+R2A+A5ySc2hSdh00axkG7hhJ3Pr9XibWvElgSSrQgVac3FoZoczbsA1EpANtXF/FF/rMw==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\dotnet-learning\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

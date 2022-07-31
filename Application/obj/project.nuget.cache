@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ml48E/vqHpvPXQqyKjTdVQasoCr8cko5rFBkq61vI8XMnQ+nYIHC5svvkhYglIuvZl5sWMnx6CUxknUdZbB+ow==",
+  "dgSpecHash": "FxczOR0aMEd4pbWlDFk9JarbBcz7Dl2R0SoPRESGeRz2CyO/NOv29fPFmx/4w34UTPAhedwRX4MYLcMQkspxRg==",
   "success": true,
-  "projectFilePath": "D:\\dotnet\\dotnet-learning\\Application\\Application.csproj",
+  "projectFilePath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

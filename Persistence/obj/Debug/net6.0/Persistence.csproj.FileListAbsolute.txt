@@ -1,0 +1,15 @@
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\bin\Debug\net6.0\Domain.dll
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\dotnet\dotnet-learning\ASP.NET-Core-with-React\Persistence\obj\Debug\net6.0\ref\Persistence.dll
