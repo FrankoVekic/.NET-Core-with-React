@@ -997,8 +997,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj"
+            "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
+              "projectPath": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj"
             },
             "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Persistence\\Persistence.csproj": {
               "projectPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Persistence\\Persistence.csproj"

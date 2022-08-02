@@ -4,14 +4,14 @@
     "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
+    "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
+        "projectUniqueName": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
+        "projectPath": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\obj\\",
+        "outputPath": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -78,8 +78,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj"
+              "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
+                "projectPath": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj"
               }
             }
           }
