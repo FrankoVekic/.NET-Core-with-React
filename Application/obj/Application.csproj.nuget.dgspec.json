@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
-                "projectPath": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj"
+              "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj"
               },
               "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Persistence\\Persistence.csproj": {
                 "projectPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Persistence\\Persistence.csproj"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
+    "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
+        "projectPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\obj\\",
+        "outputPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -137,8 +137,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
-                "projectPath": "d:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj"
+              "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj"
               }
             }
           }
