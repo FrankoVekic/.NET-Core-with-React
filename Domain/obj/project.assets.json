@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\dotnet-learning\\ASP.NET-Core-with-React\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config"
