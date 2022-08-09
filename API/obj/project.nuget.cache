@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GtY7sULqK5n6QyieOJJP7HTEGmzyY2eUdC1kAEGwzFEVuEJOTdepU2LNXF7lO8XjwSdaGZxppT5Z2ZJrs5oQ4w==",
+  "dgSpecHash": "5/D5s3PLzfRZGPRDnNSULtKwcib6wuHGHnskkJ34DTq6W60leRgYE62uh9CFWZTlsHkHu+CKT9C1psegLyqMMA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\api\\API.csproj",
+  "projectFilePath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frank\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\frank\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
