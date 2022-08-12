@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/5UKuDsVdhhVp66bJebta9je5/R/q6cDyYHw81fPp2S6g4JHk9/t75+Evdm8Q2gsYxIRWcWlLlIJgxJBxiXGdg==",
+  "dgSpecHash": "uTkoZUZtnr1dBTjTY8Zo37KCrXJ7LMTsNWVsC+NRx5+Vt1w+eu9m+RwMiU+Q7eUWfgrDe2Dzi2/vk4G7DrIf3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\frank\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\frank\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\frank\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.1\\microsoft.data.sqlite.core.6.0.1.nupkg.sha512",
     "C:\\Users\\frank\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\frank\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",

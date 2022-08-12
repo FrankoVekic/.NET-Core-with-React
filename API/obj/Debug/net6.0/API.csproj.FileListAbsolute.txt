@@ -116,3 +116,5 @@ C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\obj\Debug\net6.0\
 C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
 C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\MediatR.dll
+C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

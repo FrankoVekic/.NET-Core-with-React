@@ -42,6 +42,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -97,8 +101,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj"
+              "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj"
               },
               "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Persistence\\Persistence.csproj": {
                 "projectPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Persistence\\Persistence.csproj"
@@ -115,6 +119,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -134,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj": {
+    "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -208,8 +218,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj"
+              "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj"
               }
             }
           }
