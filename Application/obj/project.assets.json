@@ -1186,8 +1186,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj"
+            "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Domain\\Domain.csproj"
             },
             "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Persistence\\Persistence.csproj": {
               "projectPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\Persistence\\Persistence.csproj"
