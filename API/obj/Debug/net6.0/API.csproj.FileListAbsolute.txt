@@ -118,3 +118,5 @@ C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\
 C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
 C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\MediatR.dll
 C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\frank\dotnet\dotnet-learning\.NET-Core-with-React\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
