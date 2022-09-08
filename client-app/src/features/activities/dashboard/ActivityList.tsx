@@ -10,7 +10,7 @@ interface Props {
 export default function ActivityList({activities, selectActivity}: Props){
     return (
         <Segment>
-            <Item.Group devided>
+            <Item.Group divided>
                 {activities.map(activity => (
                     <Item key={activity.id}>
                         <Item.Content>
