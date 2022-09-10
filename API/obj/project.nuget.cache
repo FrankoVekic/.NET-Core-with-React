@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1LcCHciPAZaEhTtSAdVctXdskkmpQEWN+OtmCQ77OT4L3ZL2/HKRf7Nem3DjbHQl9d8lc93K6Y98sddX2luSTg==",
+  "dgSpecHash": "2uFkp3V/vjR+08c9hkAaTEo1tVrmlw2hqC6TvTbBm30AJnzx0K+14SoBRkv9CSj8zADKeDH0m6Jnq9rFUr9d7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\frank\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\frank\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
