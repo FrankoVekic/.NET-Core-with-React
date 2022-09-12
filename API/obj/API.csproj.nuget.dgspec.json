@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\api\\API.csproj": {}
+    "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\api\\API.csproj": {
+    "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\api\\API.csproj",
+        "projectUniqueName": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\api\\API.csproj",
+        "projectPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\API\\API.csproj",
         "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\api\\obj\\",
+        "outputPath": "C:\\Users\\frank\\dotnet\\dotnet-learning\\.NET-Core-with-React\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config"
