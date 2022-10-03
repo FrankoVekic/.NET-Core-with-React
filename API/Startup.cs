@@ -18,6 +18,7 @@ using Application.Activities;
 using AutoMapper;
 using Application.Core;
 using API.Extensions;
+using FluentValidation.AspNetCore;
 
 namespace API
 {
@@ -35,7 +36,9 @@ namespace API
         public void ConfigureServices(IServiceCollection services)
         {
 
-            services.AddControllers();
+            services.AddControllers().AddFluentValidation(config => {
+                config.RegisterValidatorsFromAssemblyContaining<Create>();
+            });
             services.AddAplicationServices(_config);
            
         
